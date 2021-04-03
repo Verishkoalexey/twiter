@@ -1,5 +1,5 @@
 # twiter
 Description:
-Simple analog twitter
+Simple analogue of twitter
 Technologies:
 Spring boot, Spring Security, Spring JPA, PostgresSQL, Freemarker, Bootstrap
